@@ -2,9 +2,8 @@
 
 **Course:** The Art of Storytelling with Data  
 **CRS Name:** Artificial Intelligence  
-**Student Name:** YOUR FULL NAME  
-**Candidate Registration Number:** YOUR REG NUMBER  
-**School Name:** YOUR SCHOOL NAME  
+**Student Name:** Anish Bammidi
+**School Name:** Birla Open Minds
 
 ---
 
