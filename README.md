@@ -6,7 +6,7 @@
 **Student Name:** Anish Bammidi
 
 **WACP ID:** 1000198
-**School Name:** Birla Open Minds
+**School Name:** Birla Open Minds International School
 
 
 
