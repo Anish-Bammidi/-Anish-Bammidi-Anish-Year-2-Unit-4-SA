@@ -182,13 +182,7 @@ Each story point includes contextual captions explaining the importance of the i
 
 # 🖼 Screenshots
 
-(Add screenshots here)
-
-Example:
-- Dashboard Overview
-- Rivalry Heatmap
-- Toss Impact Chart
-- Venue Analysis
+<img width="1597" height="1038" alt="Screenshot 2026-02-25 at 11 27 21 AM" src="https://github.com/user-attachments/assets/c4e624cd-d7ee-4fac-881f-a6d58af13cae" />
 
 ---
 
@@ -220,6 +214,11 @@ By integrating match-level and ball-level data, the dashboard highlights:
 - Rivalry dominance patterns
 
 The interactive Tableau dashboard transforms raw IPL data into actionable insights for stakeholders.
+
+---
+
+# Link to Tableau Public
+https://public.tableau.com/views/anishyear2unit4SA/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
